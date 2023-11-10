@@ -1,0 +1,4 @@
+1.8 rows and 3 column for the field
+2.way to select
+3.ss 3,4,5,6 ; 2b 4,5,6,7
+4.因為ss離1B太遠，不會像2B守到草皮
